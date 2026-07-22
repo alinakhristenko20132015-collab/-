@@ -25,6 +25,7 @@ body {
 display: flex;
 flex-direction: column;
 background-color: linear-gradient(#006094,#67BAFD);
+height: 250px;
 }
 
 /* ================================
